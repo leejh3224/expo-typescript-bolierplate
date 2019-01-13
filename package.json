@@ -15,8 +15,6 @@
 	},
 	"devDependencies": {
 		"@babel/preset-typescript": "^7.1.0",
-		"@types/enzyme": "^3.1.15",
-		"@types/enzyme-adapter-react-16": "^1.0.3",
 		"@types/expo": "^31.0.7",
 		"@types/expo__vector-icons": "^6.2.3",
 		"@types/jest": "^23.3.12",
@@ -25,14 +23,10 @@
 		"@types/react-navigation": "^3.0.1",
 		"babel-plugin-module-resolver": "^3.1.1",
 		"babel-preset-expo": "^5.0.0",
-		"enzyme": "^3.8.0",
-		"enzyme-adapter-react-16": "^1.7.1",
 		"jest": "^23.6.0",
-		"jest-enzyme": "^7.0.1",
 		"jest-expo": "^32.0.0",
-		"jsdom": "^13.1.0",
-		"react-dom": "^16.7.0",
 		"react-native-debugger-open": "^0.3.17",
+		"react-native-testing-library": "^1.5.0",
 		"tslint-config-prettier": "^1.17.0"
 	},
 	"private": true
